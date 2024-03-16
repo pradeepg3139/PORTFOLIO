@@ -1,4 +1,4 @@
-Below are websites links created in Magento, Wordpress and Core php.
+Below are website links created in Magento, Wordpress and Core php.
 
 http://sahilplastics.com/
 
